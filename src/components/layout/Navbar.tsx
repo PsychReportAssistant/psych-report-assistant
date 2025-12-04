@@ -52,7 +52,7 @@ const Navbar = () => {
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://payhip.com/your-store"
+              href="https://payhip.com/b/Wq3wQ"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -91,7 +91,7 @@ const Navbar = () => {
                 </Link>
               ))}
               <a
-                href="https://payhip.com/your-store"
+                href="https://payhip.com/b/Wq3wQ"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2"
