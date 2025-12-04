@@ -91,7 +91,7 @@ const Index = () => {
                   <ArrowRight className="h-5 w-5" />
                 </Button>
               </Link>
-              <a href="https://payhip.com/your-store" target="_blank" rel="noopener noreferrer">
+              <a href="https://payhip.com/b/Wq3wQ" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline" size="xl" className="w-full sm:w-auto">
                   <Sparkles className="h-5 w-5" />
                   Get Premium Version
@@ -191,7 +191,7 @@ const Index = () => {
                   <p className="text-sm text-muted-foreground">One-time purchase</p>
                   <p className="font-display text-4xl font-bold text-foreground">$49</p>
                 </div>
-                <a href="https://payhip.com/your-store" target="_blank" rel="noopener noreferrer">
+                <a href="https://payhip.com/b/Wq3wQ" target="_blank" rel="noopener noreferrer">
                   <Button variant="premium" size="xl">
                     <Sparkles className="h-5 w-5" />
                     Get Premium Now
