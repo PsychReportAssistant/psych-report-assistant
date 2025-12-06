@@ -72,10 +72,10 @@ const Contact = () => {
                   For general inquiries and support
                 </p>
                 <a
-                  href="mailto:info@psychreportassistant.com"
+                  href="mailto:quentariusdwade@gmail.com"
                   className="text-primary hover:underline text-sm"
                 >
-                  info@psychreportassistant.com
+                  quentariusdwade@gmail.com
                 </a>
               </div>
 
