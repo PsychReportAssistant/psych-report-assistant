@@ -69,17 +69,9 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <Link to="/blog/getting-started" className="text-sm text-muted-foreground hover:text-primary transition-colors">
-                  Getting Started Guide
+                <Link to="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">
+                  Blog
                 </Link>
-              </li>
-              <li>
-                <a 
-                  href="mailto:support@psychreportassistant.com"
-                  className="text-sm text-muted-foreground hover:text-primary transition-colors flex items-center gap-1"
-                >
-                  <Mail className="h-3 w-3" /> Support
-                </a>
               </li>
             </ul>
           </div>
